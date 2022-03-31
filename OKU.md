@@ -8,7 +8,7 @@
 
 ```bash
 # Depoyu Klonla
-git clone https://github.com/1337Legend/legend
+git clone https://github.com/1337Legend/LegendPhishing
 
 # Dizine Gir
 cd legend
